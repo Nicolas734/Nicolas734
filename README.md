@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Total de Visitas no perfil :detective: <br>
+## Total de Visitas no perfil <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/Nicolas734/count.svg" />
  </p>
