@@ -1,4 +1,3 @@
-### Alou 👋
 
 
 <div align="center">
