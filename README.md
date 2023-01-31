@@ -3,14 +3,8 @@
 
 
 
-<div align="center">
-<img height="500" alt="gif" src="https://cdnb.artstation.com/p/assets/images/images/032/828/933/large/pixel-jeff-cyberpunk-2077-3.jpg?1607589442" />
-</div>
-
-
-
 ### 🚀 Sobre mim
-- Atualmente cursando 3° semestre de Desenvolvimento de Software Multiplataforma na FATEC São José dos Campos.
+- Atualmente cursando 4° semestre de Desenvolvimento de Software Multiplataforma na FATEC São José dos Campos.
 - Estudante de Programação.
 
 
