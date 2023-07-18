@@ -4,7 +4,7 @@
 
 
 ### 🚀 Sobre mim
-- Atualmente cursando 4° semestre de Desenvolvimento de Software Multiplataforma na FATEC São José dos Campos.
+- Atualmente cursando 5° semestre de Desenvolvimento de Software Multiplataforma na FATEC São José dos Campos.
 - Estudante de Programação.
 
 
