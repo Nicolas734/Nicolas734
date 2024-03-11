@@ -4,7 +4,7 @@
 
 
 ### 🚀 Sobre mim
-- Atualmente cursando 5° semestre de Desenvolvimento de Software Multiplataforma na FATEC São José dos Campos.
+- Atualmente cursando 6° semestre de Desenvolvimento de Software Multiplataforma na FATEC São José dos Campos.
 - Estudante de Programação.
 
 
@@ -46,8 +46,9 @@
 </div>
 
 
-
+<!--
 ## Total de Visitas no perfil <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/Nicolas734/count.svg" />
 </p>
+-->
