@@ -41,8 +41,9 @@
   
   [![gmail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:nichollaslimma734@gmail.com)
   [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/2h1/)
+  <!--
   [![instagram](https://img.shields.io/badge/instagram-%23100000.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nicolas___lima___/)
-  
+  -->
 </div>
 
 
