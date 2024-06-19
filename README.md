@@ -8,6 +8,9 @@
 - Estudante de Programação.
 
 
+[Veja meu portfólio acadêmico/profissional clicando aqui.](https://github.com/Nicolas734/portfolio/blob/master/README.md)
+
+
 
 ### 🛠 Ferramentas e Tecnologias Conhecidas
 <div align="center">
@@ -38,9 +41,11 @@
 
 
 
+
+
  ## 🔗 Links
 <div align="center">
-  
+
   [![gmail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:nichollaslimma734@gmail.com)
   [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/2h1/)
   <!--
